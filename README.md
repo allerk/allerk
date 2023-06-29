@@ -3,7 +3,7 @@
 
 - 🔭 Worked at **GrabCAD/Stratasys as an Intern Software Engineer**
 
-- 🎓 I'm currently studying at **TalTech (Tallinna Tehnikaülikool) in IT systems development**
+- 🎓 I'm currently studying **IT systems development** at **TalTech (Tallinna Tehnikaülikool)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
