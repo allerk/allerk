@@ -1,11 +1,9 @@
 <h1 align="center">👋 Hello there! I'm Aleksandr Lerko</h1>
 <h3 align="center">Developer from Tallinn (Estonia 🇪🇪)</h3>
 
-- 💻 Currently work as a **Full Stack Developer** at the startup Getpart
-
 - 🔭 Worked at **GrabCAD/Stratasys as an Intern Software Engineer**
 
-- 🎓 I'm currently studying **IT systems development** at **TalTech (Tallinna Tehnikaülikool)**
+- 🎓 Graduated from the **IT systems development** at **TalTech (Tallinna Tehnikaülikool)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
